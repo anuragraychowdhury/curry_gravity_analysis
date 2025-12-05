@@ -1,0 +1,9 @@
+# Core dependencies
+rank-bm25
+sentence-transformers
+streamlit
+numpy
+requests
+pandas
+scikit-learn
+
