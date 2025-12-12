@@ -1,5 +1,8 @@
 # Stephen Curry Performance Retrieval System
 
+[Presentation Link
+](https://docs.google.com/presentation/d/1oU1maW551ph-DnMaDQuyAxFhyrY2CVimrG7nTvOFcXg/edit?usp=sharing)
+
 A two-stage text retrieval system that identifies and ranks passages describing Stephen Curry's notable game performances from sports articles and discussions. The system combines traditional keyword-based retrieval (BM25) with neural semantic re-ranking to provide more relevant results.
 
 ## 🎯 Overview
