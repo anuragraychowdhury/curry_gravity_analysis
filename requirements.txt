@@ -1,9 +1,7 @@
-# Core dependencies
-rank-bm25
-sentence-transformers
-streamlit
-numpy
-requests
+nba_api
 pandas
-scikit-learn
-
+numpy
+matplotlib
+plotly
+streamlit
+requests

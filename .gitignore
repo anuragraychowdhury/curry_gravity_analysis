@@ -23,10 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data files
-data/
-*.json
-*.csv
+# Data files — committed so the deployed app loads without hitting NBA API
 *.pkl
 
 # IDE
